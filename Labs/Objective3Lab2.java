@@ -10,7 +10,7 @@ public class Objective3Lab2 {
     result = side1 + side2;
 
     double hypotenuse;
-    hypotenuse = Math.sqrt(164);
+    hypotenuse = Math.sqrt(result);
 
 
     System.out.println(hypotenuse);
